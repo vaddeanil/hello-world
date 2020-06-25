@@ -1,2 +1,2 @@
 # hello-world
-sample description
+chane1 is done
